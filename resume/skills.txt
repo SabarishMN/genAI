@@ -1,0 +1,30 @@
+Based on the information provided in the document, He has the following skills:
+
+1. C/C++
+2. Java
+3. JavaScript/TypeScript
+4. Python
+5. Golang
+6. SQL/NoSQL
+7. Bash
+8. Angular
+9. PostgreSQL
+10. MySQL
+11. Node.js
+12. Redis
+13. Docker
+14. Kubernetes
+15. Mongo
+16. RabbitMQ
+17. OpenCV
+18. AWS
+19. Hyperledger Fabric
+20. React.js
+21. HTML
+22. CSS
+23. RESTful APIs
+24. Spring Boot
+25. GitHub
+26. Linux/Unix
+
+These are the skills he possesses as listed in the provided document.

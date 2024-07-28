@@ -1,0 +1,105 @@
+{
+  "name": "Sabarish Muthumani Narayanasamy",
+  "email": "sabarishsbrsh1@gmail.com",
+  "phone": "540-605-0766",
+  "linkedin": "www.linkedin.com/in/sabarishmn",
+  "github": "https://github.com/SabarishMN",
+  "objective": "As a Computer Engineering Master's graduate with a strong background and experience in various industries, including FinTech and Contact Centers, I am actively seeking roles in Software Engineering and ML. With hands-on experience at Cisco and the National Payments Corporation of India, along with proficiency in C/C++, Java, Python, and blockchain technologies, I aim to contribute to innovative projects and drive impactful technological solutions.",
+  "education": [
+    {
+      "university": "Virginia Polytechnic Institute and State University",
+      "location": "Blacksburg, VA, USA",
+      "degree": "Master of Science in Computer Engineering",
+      "gpa": "4.0/4.0",
+      "dates": "Aug 2023 - Dec 2024",
+      "courses": ["Computer Vision", "Software Engineering", "Advanced Machine Learning"]
+    },
+    {
+      "university": "Amrita School of Engineering",
+      "location": "Coimbatore, India",
+      "degree": "Bachelor of Technology in Computer Science and Engineering",
+      "dates": "Jun 2016 - May 2020"
+    }
+  ],
+  "skills": [
+    "C/C++",
+    "Java",
+    "JavaScript/TypeScript",
+    "Python",
+    "Golang",
+    "SQL/NoSQL",
+    "Bash",
+    "Angular",
+    "PostgreSQL",
+    "MySQL",
+    "Node.js",
+    "Redis",
+    "Docker",
+    "Kubernetes",
+    "Mongo",
+    "RabbitMQ",
+    "OpenCV",
+    "AWS",
+    "Hyperledger Fabric",
+    "React.js",
+    "HTML",
+    "CSS",
+    "RESTful APIs",
+    "Spring Boot",
+    "GitHub",
+    "Linux/Unix"
+  ],
+  "experience": [
+    {
+      "company": "Cisco Systems, Inc.",
+      "title": "Software Engineer",
+      "dates": "Apr 2022 - Aug 2023",
+      "responsibilities": [
+        "Resolved 8 critical defects in 2 weeks and achieved zero defects at the end of the sprint.",
+        "Resolved 30+ security, workflow, and functional bugs, including XSS, Apache Kafka lags, form validation, and cosmetic issues",
+        "Standardized Spring Java classes, in turn, ensured modularity for a system that had more than 40+ entities.",
+        "Customized end-to-end asynchronous RESTful APIs for creating users on Tenant Management in Spring and being part of 10+ integration tests with external components.",
+        "Upgraded the customer migration workflow for 500 customers using Node.js scripts.",
+        "Enhanced the system by resolving support requests related to timezone, onboarding, and dialed numbers for more than 100+ customers using automated scripts."
+      ]
+    },
+    {
+      "company": "National Payments Corporation of India (NPCI)",
+      "title": "Associate Blockchain and Data Science",
+      "dates": "Nov 2020 - Mar 2022",
+      "responsibilities": [
+        "Facilitated the onboarding of 150 banks on the blockchain-based real-time Internet Banking platform Vajra using shell scripts.",
+        "Implemented Verification Transaction Logic (3 ACK) using Node.js on Vajra IMPS, increasing the success rate by 70%; integrated CBDC (Central Bank Digital Currency) with UPI; and designed transfer logic for CBDC.",
+        "Accelerated all the pilot and 6 \"Go-Live\" production releases, and strengthened the system by fixing 20+ Node.js bugs and features.",
+        "Optimized token generation and creation by 200% by batch processing in the in-built file system of the Hyperledger blockchain framework.",
+        "Programmed deployment YAML for 2 of the advanced UPI/IMPS fraud models during prod deployments as a trainee engineer on Docker and Kubernetes on Linux."
+      ]
+    },
+    {
+      "company": "Kloudone Inc.",
+      "title": "Software Engineering Intern",
+      "dates": "May - Jul 2020",
+      "responsibilities": [
+        "Constructed Dockerfiles according to the dependencies to build images for various teams for an intra-cloud migration for 2 different organizations on platform-based technologies like GCP, Docker, and Kubernetes."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "WILDFIRE DETECTION USING CV",
+      "description": "This project uses ResNet50 (a residual network) to classify an image into fire, neutral, and smoke, under Prof. A. Linn Abbott."
+    },
+    {
+      "title": "OCCUPANCY DETECTION AND ANALYSIS",
+      "description": "As part of a research project under the supervision of Prof. Dr. Vidhya Balasubramanian, as part of the “Smart Building” initiative, built a Bluetooth-based Occupancy Detection System."
+    },
+    {
+      "title": "CROWD ANALYSIS",
+      "description": "Accomplished building a computer vision model for tracking individual movement in a crowd for public safety under Asst. Prof. Dr. Raghesh Krishnan K. Coded social behavioral and optical flow mapping for tracking individuals’ movements, which led to crowd stability analysis of less than 200 people in a frame."
+    },
+    {
+      "title": "MACHINE LEARNING BLOG",
+      "description": "Built a site for writing Machine Learning blogs as part of my coursework using open-source tool Quarto. Added blogs related to classification, outlier detection, and major ML algorithms."
+    }
+  ]
+}
