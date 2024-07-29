@@ -1,4 +1,4 @@
-# Vectorized Search and RAG Implementation
+# Vectorized Search, RAG Implementation and Document Intelligence with Invoice Analysis
 
 ## Objective
 
@@ -7,6 +7,7 @@ The primary objective of this exercise was to implement a vectorized search syst
 ## Technologies Used
 
 - **Azure AI**: Utilized for its advanced search and indexing capabilities.
+- **Azure AI Document Intelligence**: Used for processing invoice images and extracting relevant information.
 - **OpenAI API**: Employed for generating responses based on the retrieved information.
 - **Azure Storage**: Used for storing data in JSON format within containers.
 
@@ -16,20 +17,9 @@ The primary objective of this exercise was to implement a vectorized search syst
 2. Indexing: Configuring indexers to map data from storage containers to the search index, enabling efficient retrieval.
 3. Vectorized Search: Implementation of vectorized searches for nuanced and context-aware query matching.
 4. Response Generation: Utilizing LLM to respond to queries based on the vectorized searched documents.
-
-## Application
-
-- Efficient searching through resume data using advanced vectorized search techniques.
-- Generation of human-like responses using the OpenAI API, augmented with retrieved information.
-
-## Outcomes and Learnings
-
-- Gained hands-on experience with Azure AI's search and indexing capabilities.
-- Developed a deeper understanding of vectorized search techniques and their advantages over traditional search methods.
-- Learned to integrate multiple AI services (Azure AI and OpenAI) to create a more powerful and versatile system.
-- Understood the practical implementation of RAG and its potential in enhancing AI-generated responses with retrieved information.
-- Acquired skills in working with JSON data formats and Azure Storage containers.
-- Realized the potential of AI in transforming document processing and information retrieval tasks.
+5. Image Upload: Facilitating the upload of invoice images to the system.
+6. Document Processing: Utilizing Azure AI Document Intelligence to analyze the uploaded images.
+7. Data Extraction: Identifying and extracting relevant information from the processed documents.
 
 ## Getting Started
 
