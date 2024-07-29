@@ -53,7 +53,7 @@ def vector_search(query_vector, index_name, top_k=5):
         vector_queries=[vector_query],
         select=["id", "content"],
         top=top_k,
-        filter="invoice_id eq '#000023'"
+        # filter="invoice_id eq '#000023'"
 
     )
     return results
